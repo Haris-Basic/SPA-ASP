@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Hary\source\repos\PriRedPov\PriRedPov\HeshUlancavanjem.h(126,31): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hary\source\repos\PriRedPov\PriRedPov\HeshOtvorenoAdresiranje.h(8,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hary\source\repos\PriRedPov\PriRedPov\HeshOtvorenoAdresiranje.h(10,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PriRedPov.vcxproj -> C:\Users\Hary\source\repos\PriRedPov\Debug\PriRedPov.exe
